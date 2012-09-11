@@ -28,11 +28,11 @@
    inkscape:window-height="637"
    id="namedview5817"
    showgrid="false"
-   inkscape:zoom="0.295"
+   inkscape:zoom="0.59"
    inkscape:cx="400"
    inkscape:cy="400"
-   inkscape:window-x="0"
-   inkscape:window-y="26"
+   inkscape:window-x="228"
+   inkscape:window-y="59"
    inkscape:window-maximized="0"
    inkscape:current-layer="svg2" /><metadata
    id="metadata8"><rdf:RDF><cc:Work
@@ -52,6 +52,7 @@
      id="tspan3595"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">0</tspan></text>
 
+
 <path
    d="m 98.87281,358.87158 5.30126,0"
    id="path3597"
@@ -65,6 +66,7 @@
      y="364.70297"
      id="tspan3601"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">10</tspan></text>
+
 
 <path
    d="m 98.87281,327.77084 5.30126,0"
@@ -80,6 +82,7 @@
      id="tspan3607"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">20</tspan></text>
 
+
 <path
    d="m 98.87281,296.6701 5.30126,0"
    id="path3609"
@@ -93,6 +96,7 @@
      y="302.5015"
      id="tspan3613"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">30</tspan></text>
+
 
 <path
    d="m 98.87281,265.56937 5.30126,0"
@@ -108,6 +112,7 @@
      id="tspan3619"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">40</tspan></text>
 
+
 <path
    d="m 98.87281,234.55699 5.30126,0"
    id="path3621"
@@ -121,6 +126,7 @@
      y="240.38838"
      id="tspan3625"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">50</tspan></text>
+
 
 <path
    d="m 98.87281,203.45625 5.30126,0"
@@ -136,6 +142,7 @@
      id="tspan3631"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">60</tspan></text>
 
+
 <path
    d="m 98.87281,172.35551 5.30126,0"
    id="path3633"
@@ -149,6 +156,7 @@
      y="178.18689"
      id="tspan3637"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">70</tspan></text>
+
 
 <path
    d="m 98.87281,141.25476 5.30126,0"
@@ -164,6 +172,7 @@
      id="tspan3643"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">80</tspan></text>
 
+
 <text
    x="142.81143"
    y="422.66342"
@@ -173,6 +182,7 @@
      y="422.66342"
      id="tspan3647"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">100</tspan></text>
+
 
 <text
    x="293.16583"
@@ -184,6 +194,7 @@
      id="tspan3651"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">1000</tspan></text>
 
+
 <text
    x="443.60855"
    y="422.66342"
@@ -193,6 +204,7 @@
      y="422.66342"
      id="tspan3655"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">10000</tspan></text>
+
 
 <path
    d="m 98.87281,141.25476 0,248.71756 470.31032,0"
@@ -210,6 +222,7 @@
      id="tspan3667"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">Throughput (reqs/s x 10</tspan></text>
 
+
 </g><g
      transform="matrix(0,1,-1,0,219,3903)"
      id="g3669"><text
@@ -220,6 +233,7 @@
      id="tspan3673"
      style="font-size:208px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">3</tspan></text>
 
+
 </g><g
      transform="matrix(0,1,-1,0,346,4018)"
      id="g3675"><text
@@ -229,6 +243,7 @@
      y="0"
      id="tspan3679"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">)</tspan></text>
+
 
 </g></g><text
    x="238.87917"
@@ -243,6 +258,7 @@
      y="204.33978"
      id="tspan3685"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">Bind9, Linux</tspan></text>
+
 
 <g
    transform="matrix(0.08835436,0,0,-0.08835436,2.0364187,497.41124)"
@@ -294,6 +310,7 @@
      id="tspan3713"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">NSD, Linux</tspan></text>
 
+
 <g
    transform="matrix(0.08835436,0,0,-0.08835436,2.0364187,497.41124)"
    id="g3715"><path
@@ -343,6 +360,7 @@
      y="258.05927"
      id="tspan3741"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">NSD, MiniOS -O</tspan></text>
+
 
 <g
    transform="matrix(0.08835436,0,0,-0.08835436,2.0364187,497.41124)"
@@ -394,6 +412,7 @@
      id="tspan3769"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">NSD, MiniOS -O3</tspan></text>
 
+
 <g
    transform="matrix(0.08835436,0,0,-0.08835436,2.0364187,497.41124)"
    id="g3771"><path
@@ -443,6 +462,7 @@
      y="311.77872"
      id="tspan3797"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">Mirage (no memo)</tspan></text>
+
 
 <g
    transform="matrix(0.08835436,0,0,-0.08835436,2.0364187,497.41124)"
@@ -494,6 +514,7 @@
      id="tspan3825"
      style="font-size:22.97213745px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">Mirage (memo)</tspan></text>
 
+
 <g
    transform="matrix(0.08835436,0,0,-0.08835436,2.0364187,497.41124)"
    id="g3827"><path
@@ -538,4 +559,23 @@
    d="m 98.87281,141.25476 0,248.71756 470.31032,0"
    id="path3851"
    style="fill:none;stroke:#000000;stroke-width:0.88354367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-   inkscape:connector-curvature="0" /></svg>
+   inkscape:connector-curvature="0" /><text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+   x="18.119873"
+   y="538.72571"
+   id="text7418"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan7420"
+     x="18.119873"
+     y="538.72571">DNS queries per second</tspan><tspan
+     sodipodi:role="line"
+     x="18.119873"
+     y="588.72571"
+     id="tspan7424" /><tspan
+     sodipodi:role="line"
+     x="18.119873"
+     y="638.72571"
+     id="tspan7422" /></text>
+</svg>

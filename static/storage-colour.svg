@@ -7,14 +7,37 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="800"
    height="800"
    id="svg2"
-   xml:space="preserve"><metadata
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="storage-colour.svg"><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1124"
+     inkscape:window-height="724"
+     id="namedview7416"
+     showgrid="false"
+     inkscape:zoom="0.834386"
+     inkscape:cx="400"
+     inkscape:cy="455.52611"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" /><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><g
      transform="matrix(0.09546666,0,0,-0.09546666,0.78943514,519.01904)"
      id="g10"><path
@@ -28,6 +51,7 @@
      id="tspan16"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">0</tspan></text>
 
+
 <path
    d="m 1384,1531 60,0"
    id="path18"
@@ -38,6 +62,7 @@
      y="0"
      id="tspan22"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">200</tspan></text>
+
 
 <path
    d="m 1384,1845 60,0"
@@ -50,6 +75,7 @@
      id="tspan28"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">400</tspan></text>
 
+
 <path
    d="m 1384,2160 60,0"
    id="path30"
@@ -60,6 +86,7 @@
      y="0"
      id="tspan34"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">600</tspan></text>
+
 
 <path
    d="m 1384,2474 60,0"
@@ -72,6 +99,7 @@
      id="tspan40"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">800</tspan></text>
 
+
 <path
    d="m 1384,2789 60,0"
    id="path42"
@@ -82,6 +110,7 @@
      y="0"
      id="tspan46"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">1000</tspan></text>
+
 
 <path
    d="m 1384,3103 60,0"
@@ -94,6 +123,7 @@
      id="tspan52"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">1200</tspan></text>
 
+
 <path
    d="m 1384,3418 60,0"
    id="path54"
@@ -104,6 +134,7 @@
      y="0"
      id="tspan58"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">1400</tspan></text>
+
 
 <path
    d="m 1384,3732 60,0"
@@ -116,6 +147,7 @@
      id="tspan64"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">1600</tspan></text>
 
+
 <g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,1709.3314,1025.3314)"
    id="g66"><text
@@ -125,6 +157,7 @@
      y="0"
      id="tspan70"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">1</tspan></text>
+
 
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,2214.3314,1025.3314)"
@@ -136,6 +169,7 @@
      id="tspan76"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">2</tspan></text>
 
+
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,2719.3314,1025.3314)"
    id="g78"><text
@@ -145,6 +179,7 @@
      y="0"
      id="tspan82"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">4</tspan></text>
+
 
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,3224.3314,1025.3314)"
@@ -156,6 +191,7 @@
      id="tspan88"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">8</tspan></text>
 
+
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,3729.3314,1025.3314)"
    id="g90"><text
@@ -165,6 +201,7 @@
      y="0"
      id="tspan94"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">16</tspan></text>
+
 
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,4234.3314,1025.3314)"
@@ -176,6 +213,7 @@
      id="tspan100"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">32</tspan></text>
 
+
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,4739.3314,1025.3314)"
    id="g102"><text
@@ -185,6 +223,7 @@
      y="0"
      id="tspan106"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">64</tspan></text>
+
 
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,5244.3314,1025.3314)"
@@ -196,6 +235,7 @@
      id="tspan112"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">128</tspan></text>
 
+
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,5749.3314,1025.3314)"
    id="g114"><text
@@ -205,6 +245,7 @@
      y="0"
      id="tspan118"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">256</tspan></text>
+
 
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,6254.3314,1025.3314)"
@@ -216,6 +257,7 @@
      id="tspan124"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">512</tspan></text>
 
+
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,6759.3314,1025.3314)"
    id="g126"><text
@@ -225,6 +267,7 @@
      y="0"
      id="tspan130"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">1024</tspan></text>
+
 
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,7265.3314,1025.3314)"
@@ -236,6 +279,7 @@
      id="tspan136"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">2048</tspan></text>
 
+
 </g><g
    transform="matrix(0.7071,-0.7071,0.7071,0.7071,7770.3314,1025.3314)"
    id="g138"><text
@@ -245,6 +289,7 @@
      y="0"
      id="tspan142"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">4096</tspan></text>
+
 
 </g><path
    d="m 1384,4031 0,-2815 6823,0"
@@ -259,6 +304,7 @@
      id="tspan150"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">Throughput (MiB/s)</tspan></text>
 
+
 </g><text
    transform="matrix(1,0,0,-1,3884.87,288)"
    id="text152"><tspan
@@ -270,6 +316,7 @@
      y="-2581"
      id="tspan156"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">xen-direct</tspan></text>
+
 
 <path
    d="m 4930,2935 636,0 m -4182,-1644 372,44 505,117 505,236 505,372 505,515 505,681 505,-10 505,252 505,-20 505,-11 505,5 506,14 505,-19"
@@ -420,6 +467,7 @@
      id="tspan272"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">linux-pv, direct I/O</tspan></text>
 
+
 <path
    d="m 4930,2631 636,0 m -4182,-1325 372,23 505,113 505,219 505,401 505,497 505,555 505,244 505,17 505,90 505,31 505,25 506,-11 505,10"
    id="path274"
@@ -569,6 +617,7 @@
      id="tspan388"
      style="font-size:260px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica">linux-pv, buffered I/O</tspan></text>
 
+
 <path
    d="m 4930,2327 636,0 m -4182,-1090 372,-12 505,183 505,190 505,82 505,20 505,37 505,0 505,-24 505,-5 505,10 505,0 506,-3 505,-8"
    id="path390"
@@ -713,4 +762,23 @@
      style="fill:#cc4499;fill-opacity:1;fill-rule:nonzero;stroke:#cc4499;stroke-width:0.44440001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g><path
    d="m 1384,4031 0,-2815 6823,0"
    id="path502"
-   style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g></svg>
+   style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g><text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="20.298569"
+     y="589.51642"
+     id="text7418"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan7420"
+       x="20.298569"
+       y="589.51642">fast PCIe SSD</tspan><tspan
+       sodipodi:role="line"
+       x="20.298569"
+       y="639.51642"
+       id="tspan7424">random reads</tspan><tspan
+       sodipodi:role="line"
+       x="20.298569"
+       y="689.51642"
+       id="tspan7422" /></text>
+</svg>
