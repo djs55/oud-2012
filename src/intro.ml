@@ -13,8 +13,16 @@ let slides = [
 {
   styles=[];
   content= <:html<
-    <h3>Your Tutorial Teachers Are...</h3>
+    <h3>Joint work with</h3>
     <ul>
+	 <li>
+	   <b>Dr. Richard Mortier</b>,<br />
+       <div style="font-size: 80%">
+       Horizon Transitional Fellow,<br />
+       School of Computer Science, University of Nottingham.<br />
+       www: <a href="http://www.cs.nott.ac.uk/~rmm/">http://www.cs.nott.ac.uk/~rmm</a>&nbsp; &nbsp; twitter: <a href="http://twitter.com/mort___">mort___</a>
+       </div>
+     </li>
      <li>
        <b>Dr. Anil Madhavapeddy</b>,<br />
        <div style="font-size: 80%">
@@ -23,22 +31,7 @@ let slides = [
        www: <a href="http://anil.recoil.org/">http://anil.recoil.org</a>&nbsp; &nbsp; twitter: <a href="http://twitter.com/avsm">avsm</a>
        </div>
      </li>
-       
-     <li><b>Dr. David Scott</b>,<br />
-       <div style="font-size: 80%">
-       XenServer Platform Architect,<br />
-       Citrix and Xen.org.<br />
-       www: <a href="http://dave.recoil.org/">http://dave.recoil.org</a>&nbsp; &nbsp; twitter: <a href="http://twitter.com/mugofsoup">mugofsoup</a>
-       </div>
-     </li>
-     <li><b>Dr. Thomas Gazagnaire</b>,
-       <div style="font-size: 80%">
-       CTO, OCamlPro.<br />
-       www: <a href="http://gazagnaire.org/">http://gazagnaire.org</a>&nbsp; &nbsp; twitter: <a href="http://twitter.com/eriangazag">eriangazag</a>
-       </div>
-     </li>
     </ul>
-    <p>With <b>lots</b> of help from Richard Mortier, Raphael Proust and Balraj Singh, who couldn't make it to Tokyo.</p>
   >>
 };
 {
