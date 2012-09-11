@@ -26,9 +26,6 @@ let footer = [{
 let articles = List.flatten [
   header;
   Intro.slides;
-  Lwt_tutorial.slides;
-  Lwt_exercises.slides;
-  Miragep4.slides;
   footer;
 ]
 

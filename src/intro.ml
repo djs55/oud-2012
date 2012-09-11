@@ -32,148 +32,80 @@ let slides = [
        </div>
      </li>
     </ul>
-  >>
-};
-{
-  styles=[];
-  content= <:html<
-    <h3>Schedule</h3>
-    <table>
-      <tr style="background-color:#000; color:#EEE">
-         <th>Topic</th>
-         <th>Activity</th>
-         <th>Time</th>
-      </tr>
-      <tr style=$str:pres$>
-         <td>What is Mirage?</td>
-         <td>Presentation</td>
-         <td>10 mins</td>
-      </tr>
-      <tr style=$str:activity$>
-         <td>Hello World in UNIX, Xen, Javascript</td>
-         <td>Activity</td>
-         <td>15 mins</td>
-      </tr>
-      <tr style=$str:pres$>
-         <td>Threading Intro</td>
-         <td>Presentation</td>
-         <td>10 mins</td>
-      </tr>
-      <tr style=$str:activity$>
-         <td>Threading Exercises</td>
-         <td>Activity</td>
-         <td>15 mins</td>
-      </tr>
-      <tr style=$str:rest$>
-         <td colspan="2">Comfort Break</td>
-         <td>10 mins</td>
-      </tr>
-      <tr style=$str:pres$>
-         <td>Device Model and Storage</td>
-         <td>Presentation</td>
-         <td>10 mins</td>
-      </tr>
-      <tr style=$str:activity$>
-         <td>File System Exercises</td>
-         <td>Activity</td>
-         <td>15 mins</td>
-      </tr>
-      <tr style=$str:rest$>
-         <td colspan="2">Tea Break</td>
-         <td>30 mins</td>
-      </tr>
-      <tr style=$str:pres$>
-         <td>Networking</td>
-         <td>Presentation</td>
-         <td>10 mins</td>
-      </tr>
-      <tr style=$str:pres$>
-         <td>Syntax Extensions</td>
-         <td>Presentation</td>
-         <td>5 mins</td>
-      </tr>
-      <tr style=$str:activity$>
-         <td>Build Your Website</td>
-         <td>Activity</td>
-         <td>15 mins</td>
-      </tr>
-      <tr style=$str:pres$>
-         <td>To the Cloud!</td>
-         <td>Presentation</td>
-         <td>10 mins</td>
-      </tr>
-      <tr style=$str:activity$>
-         <td>Play with EC2</td>
-         <td>Activity</td>
-         <td>15 mins</td>
-      </tr>
-      <tr style=$str:rest$>
-         <td colspan="2">Discussion</td>
-         <td>10 mins</td>
-      </tr>
-    </table>
-  >>
-};
-{
-  styles=[];
-  content= <:html<
-    <h3>Prior Knowledge</h3>
-    <ul>
-      <li>Basic OCaml</li>
-      <li>Day-to-day UNIX operation, preferably Linux or MacOS X.</li>
-      <li>Version control (git)</li>
-    </ul>
-    <p><b>Does everyone have the VirtualBox VM installed?</b></p><br />
-    <h3>Software Required</h3>
-    <ul>
-     <li>A 64-bit UNIX (Linux or MacOS X)</li>
-     <li>OCaml 3.12.0 (with <tt>make world opt.opt</tt> to have the native code compilers)</li>
-     <li><tt>tuntap</tt> (default on Linux, <a href="http://tuntaposx.sourceforge.net/">download</a> on MacOS X)</li>
-     <li>Git checkout of <a href="http://github.com/avsm/mirage/">http://github.com/avsm/mirage</a></li>
-    </ul>
-  >>
-};
-{ styles=[];
-  content= <:html<
-    <h3>Installation</h3>
-    <p>For OCaml, use your package manager, or from source:</p>
-<pre class="noprettyprint">
-$str:dl$ cd ocaml-3.12.0
-$str:dl$ make world opt opt.opt
-$str:dl$ make install
-</pre>
-    <p>Mirage installs into <tt>$str:dl$HOME/mir-inst</tt> by:</p>
-<pre class="noprettyprint">
-$str:dl$ cd mirage.git
-$str:dl$ make
-$str:dl$ make install
-$str:dl$ export PATH=$str:dl$HOME/mir-inst/bin:$str:dl$PATH
+    <p>With <b>lots</b> of help from Dr. Thomas Gazagnaire, Raphael Proust and Balraj Singh, who couldn't make it to Copenhagen.</p>
 
-// if you are using emacs
-$str:dl$ make install-el
-// if you are using vim, re-install <a href="https://github.com/avsm/ocaml-annot">ocaml-annot</a>
-</pre>
->>
+  >>
+};
+{
+  styles=[];
+  content= <:html<
+    <h3>The modern software stack is mature, big and complicated</h3>
+    <ul>
+      <li>Hardware is abstracted
+        <ul>
+          <li> <b>good</b>: applications are portable</li>
+          <li> <b>bad</b>: out-dated abstractions obscure common hardware features</li>
+        </ul>
+      </li>
+      <li>Backward compatible ABIs are maintained
+        <ul>
+          <li> <b>good</b>: binaries continue to work</li>
+          <li> <b>bad</b>: rate of innovation is reduced </li>
+        </ul>
+      </li>
+      <li>It's difficult to get high performance while remaining portable (e.g. O_DIRECT)</li>
+    </ul>
+    <p><b>There is another way!</b></p>
+  >>
+};
+{
+  styles=[];
+  content= <:html<
+    <h3>Mirage: the other way</h3>
+    <ul>
+	  <li><b>&quot;The cloud is the computer&quot;</b>: now we only need simple block, network packet abstractions </li>
+      <li>Protocol libraries, rather than layers
+        <ul>
+          <li> IP, UDP, TCP </li>
+          <li> HTTP, DNS, SSH </li>
+          <li> FAT32 </li>
+          <li> OpenFlow </li>
+        </ul>
+      </li>
+      <li>Modules, signatures, functors, recompilation rather than ABIs
+        <ul>
+          <li> Fetch libraries with <b>opam</b> </li>
+          <li> Link only what you need </li>
+          <li> Compile-in static configuration (no config files) </li>
+          <li> Type-checker helps with API updates </li>
+        </ul>
+      </li>
+    </ul>
+  >>
 };
 { styles=[];
   content= <:html<
-   <h3>Run This Tutorial</h3>
-<p>The tutorial is itself written in Mirage, so build it by:</p>
-<pre class="noprettyprint">
-$str:dl$ git clone http://github.com/avsm/mirage-tutorial
-$str:dl$ cd mirage-tutorial/slides
-$str:dl$ make
-</pre>
-<p>You can run it in many different combinations. The default is UNIX sockets. <b>Is anyone here running Xen?</b></p>
-<table>
-<tr><th>Target</th><th>Backend</th><th>Storage</th><th>Network</th> </tr>
-<tr><td>run-socket_crunch</td><td>UNIX</td><td>Builtin</td><td>Sockets</td></tr>
-<tr><td>run-socket_fs</td><td>UNIX</td><td>UNIX filesystem</td><td>Sockets</td></tr>
-<tr><td>run-direct_crunch</td><td>UNIX</td><td>Builtin</td><td>Tuntap+OCaml</td></tr>
-<tr><td>run-direct_fs</td><td>UNIX</td><td>Disk image+OCaml</td><td>Tuntap+OCaml</td></tr>
-<tr><td>run-xen_crunch</td><td>Xen</td><td>Builtin</td><td>Xennet+OCaml</td></tr>
-<tr><td>run-xen_fs</td><td>Xen</td><td>Xenblock+OCaml</td><td>Xennet+OCaml</td></tr>
-</table>
+    <h3>Example: this presentation</h3>
+  >>
+};
+{ styles=[];
+  content= <:html<
+    <h3>Example: xenstore service</h3>
+  >>
+};
+{ styles=[];
+  content= <:html<
+    <h3>Example: &quot;bump in the wire&quot; proxy</h3>
+  >>
+};
+{ styles=[];
+  content= <:html<
+    <h3>Performance: block I/O</h3>
+  >>
+};
+{ styles=[];
+  content= <:html<
+    <h3>Performance: network I/O</h3>
   >>
 };
 ]
