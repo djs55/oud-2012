@@ -9,9 +9,9 @@ let header =[ {
   content= <:xml<
    <h1>Programming the Xen Cloud using OCaml</h1>
    <br />
-   1430-1450<br />
-   Ocaml Users and Developers workshop (OUD),<br />
-   Copenhagen, Denmark, Sep 2012
+   1430-1450, 14 Sept 2012<br />
+   Ocaml Users and Developers Workshop (OUD),<br />
+   Copenhagen, Denmark
   >>;
 }]
 
