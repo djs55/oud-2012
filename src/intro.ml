@@ -78,7 +78,7 @@ let slides = [
   content= <:html<
     <h3>Mirage: the other way</h3>
     <ul>
-	  <li><b>&quot;The cloud is the computer&quot;</b>: now we only need simple block, network packet abstractions </li>
+	  <li><b>&quot;The cloud is the computer&quot;</b>: now we only need simple block, network packet abstractions at the bottom.</li>
       <li>Protocol libraries, rather than layers
         <ul>
           <li> IP, UDP, TCP, HTTP, DNS, SSH, FAT32, OpenFlow </li>
@@ -90,7 +90,7 @@ let slides = [
           <li> Type-checker helps with API updates </li>
         </ul>
       </li>
-      <li>Single-purpose, optimised OS kernels
+      <li>Single-purpose, optimised, statically-linked images running as OS kernels
         <ul>
           <li> Fetch libraries with <b>opam</b> </li>
           <li> Link only what you need </li>
@@ -139,7 +139,16 @@ let slides = [
 { styles=[];
   content= <:html<
     <h3>Binary size</h3>
-    TBD
+    <p>All binaries are bzip2'd (since they're sparse, with lots of blocks of zero)</p>
+    <table>
+      <tr style="background-color:#000; color:#EEE"><td>App</td><td>standard build / KiB</td><td>with dead code elim / KiB</td></tr>
+      <tr style=$str:rest$><td>DNS</td><td>499</td><td>184</td></tr>
+      <tr style=$str:activity$><td>web server</td><td>674</td><td>172</td></tr>
+      <tr style=$str:rest$><td>OpenFlow learning switch</td><td>393</td><td>164</td></tr>
+      <tr style=$str:activity$><td>OpenFlow controller</td><td>392</td><td>168</td></tr>
+    </table>
+    <p>Dead code elimination currently only possible on bytecode (via <tt>ocamlclean</tt>).</p>
+    <p><b>Remember: these binaries are self-contained, containing full network stacks etc.</b></p>
   >>
 };
 { styles=[];
