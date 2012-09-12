@@ -52,15 +52,23 @@ let slides = [
         <ul>
           <li> <b>good</b>: applications are portable</li>
           <li> <b>bad</b>: out-dated abstractions obscure common hardware features</li>
+          <li>It's difficult to get high performance while remaining portable</li>
         </ul>
       </li>
+      <li>OSes handle multi-user, multi-process well
+        <ul>
+        <li> <b>good</b>: very flexible</li>
+        <li> <b>bad</b>: can be overkill for single-purpose apps; developers need sysadmin skills </li>
+        </ul>
+      </li>
+<!--
       <li>Backward compatible ABIs are maintained
         <ul>
           <li> <b>good</b>: binaries continue to work</li>
-          <li> <b>bad</b>: rate of innovation is reduced </li>
+          <li> <b>bad</b>: hard to make changes, even when there is good reason to do it </li>
         </ul>
       </li>
-      <li>It's difficult to get high performance while remaining portable (e.g. O_DIRECT)</li>
+-->
     </ul>
     <p><b>There is another way!</b></p>
   >>
@@ -79,10 +87,14 @@ let slides = [
       </li>
       <li>Modules, signatures, functors, recompilation rather than ABIs
         <ul>
+          <li> Type-checker helps with API updates </li>
+        </ul>
+      </li>
+      <li>Single-purpose, optimised OS kernels
+        <ul>
           <li> Fetch libraries with <b>opam</b> </li>
           <li> Link only what you need </li>
           <li> Compile-in static configuration (no config files) </li>
-          <li> Type-checker helps with API updates </li>
         </ul>
       </li>
     </ul>
