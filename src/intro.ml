@@ -39,7 +39,7 @@ let slides = [
        </div>
      </li>
     </ul>
-    <p>With <b>lots</b> of help from Dr. Thomas Gazagnaire, Raphael Proust and Balraj Singh.</p>
+    <p>With <b>lots</b> of help from Dr. Thomas Gazagnaire, Haris Rotsos, Raphael Proust and Balraj Singh.</p>
 
   >>
 };
