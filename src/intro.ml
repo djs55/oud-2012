@@ -124,7 +124,7 @@ let slides = [
     </section>
   >>
 };
-{ styles=[]
+{ styles=[];
   content= <:html<
     <h3>Binary size</h3>
     TBD
