@@ -124,6 +124,12 @@ let slides = [
     </section>
   >>
 };
+{ styles=[]
+  content= <:html<
+    <h3>Binary size</h3>
+    TBD
+  >>
+};
 { styles=[];
   content= <:html<
     <h3>Building</h3>
